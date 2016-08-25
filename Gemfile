@@ -1,8 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'activesupport', github: 'rails/rails'
-gem 'actionpack', github: 'rails/rails'
-gem 'arel', github: 'rails/arel'
-gem 'rack', github: 'rack/rack'
-
 gemspec
+gem 'actionpack', "~> 4.2.0"
